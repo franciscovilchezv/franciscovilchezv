@@ -7,7 +7,7 @@ Here is a list of materials that I have used in my classes or just when I had to
 - [Platform Based Developments](https://franciscovilchezv.github.io/platform-based-development)
 - [Introduction to Computer Science](https://github.com/intro-to-computer-science)
 
-I also try to make guides for using different tools
+I also have some guides regarding how to use different tools
 
 - [Using `pass`](https://github.com/franciscovilchezv/coding-in-apple-silicon/tree/main/terminal/pass)
 
