@@ -11,4 +11,6 @@ I also have some guides regarding how to use different tools
 
 - [Using `pass`](https://github.com/franciscovilchezv/coding-in-apple-silicon/tree/main/terminal/pass)
 
+You can find more updated information about myself in [my website](http://franciscovilchezv.github.io/).
+
 Thanks!
