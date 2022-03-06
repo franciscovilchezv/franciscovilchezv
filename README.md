@@ -6,7 +6,7 @@ Here is a list of materials that I have used in my classes or just when I had to
 
 - [Platform Based Development](https://franciscovilchezv.github.io/platform-based-development)
 - [Introduction to Computer Science](https://github.com/intro-to-computer-science)
-- [UNIX/Linux fundamentals](https://github.com/csce215)
+- [UNIX/Linux Fundamentals](https://github.com/csce215)
 
 I also have some guides regarding how to use different tools
 
