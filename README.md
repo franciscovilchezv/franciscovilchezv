@@ -11,6 +11,7 @@ Here is a list of materials that I have used in my classes or just when I had to
 I also have some guides regarding how to use different tools
 
 - [Using `pass`](https://github.com/franciscovilchezv/coding-in-apple-silicon/tree/main/terminal/pass)
+- [RabbitMQ terminology](https://github.com/franciscovilchezv/learning-playground/tree/master/rabbitmq-playground/nodejs)
 
 You can find more updated information about myself in [my website](http://franciscovilchezv.github.io/).
 
